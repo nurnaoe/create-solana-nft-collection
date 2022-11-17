@@ -1,0 +1,65 @@
+{
+  "program": {
+    "candyMachine": "3EhAYtZ5eiKeJDiWkF3EawLNmSUHwELBvsfymPLBSnDr",
+    "candyMachineCreator": "DSnDq4ZqvAmd1obuhtWDUXX3ZS54fopFyAp8WjeA5N6e",
+    "collectionMint": "Fa4XN2w5GbfvdGiMjeFE4GDGwMa8p7qcBcoKwBxLmYKC"
+  },
+  "items": {
+    "-1": {
+      "name": "Blockchain Influencer",
+      "image_hash": "4b6f20dd6aeb035a6f5d20bd97a126a19f85f56804c1520ed7bc1e4635a57c92",
+      "image_link": "https://arweave.net/T_g-oXTw_-Tx5eg1AVW2zxAQKueJwR7YjPXKpRhguCk?ext=png",
+      "metadata_hash": "32cf1425c665651aed1c76ccb2b9af77066f9cbc6fefef0c0fc0cf7f07bdf00d",
+      "metadata_link": "https://arweave.net/PFZq3lEDDbBAaRv_J3-RKSJDLZ0vMD4j10enTMFQrJw",
+      "onChain": true
+    },
+    "0": {
+      "name": "CS-2010 #1",
+      "image_hash": "6bee25817d590b765aea0dc1399716cdd418d99eb7ff0c237fc5633bce5b2b14",
+      "image_link": "https://arweave.net/hFGa92sAB0gZDZ3cJQ8PjkauRpdBeS7cOW_pMHUTRpY?ext=png",
+      "metadata_hash": "56f5283a62b41d96790e6ff852984bdfd04e1fa58ad9548348ae2fe5db921067",
+      "metadata_link": "https://arweave.net/QNXZFyaIRqmLdErw-wRSaXcRD7BTXkolzJM92O2bu4U",
+      "onChain": true
+    },
+    "1": {
+      "name": "CS-2010 #2",
+      "image_hash": "c011bdac02d33d24b8b1f83416a77db3270fe85afd2ec810794ff6fc9ce91141",
+      "image_link": "https://arweave.net/JBg4wHrGW77B7YpkzD2jgIBUJmou601trCuJ4i2NBMo?ext=png",
+      "metadata_hash": "482eefc24ca7201f56f9138c60ec8140bce862f176b90922701788a3b46ca465",
+      "metadata_link": "https://arweave.net/b_GpNJUk3OufLuA0gRGLgxX9JRO5JVOzZFno0aOsCdU",
+      "onChain": true
+    },
+    "2": {
+      "name": "CS-2010 #3",
+      "image_hash": "f78711a1e93b2fa00b368a0e914a6294f39c0a66f6c1af8e2c5ad7d8ecde112b",
+      "image_link": "https://arweave.net/1SPzRsrkKGfpbJ9ZGofHclx4nzig0e-j0RMvGpk8I3A?ext=png",
+      "metadata_hash": "e6a8dad17f9f4296cca04d3c2bea162a9342251cbcd269930f77d23a473d210e",
+      "metadata_link": "https://arweave.net/qg3DJlZtLeQJryOJoy3W1b9hF3F7HysA2ayMA67c7Ac",
+      "onChain": true
+    },
+    "3": {
+      "name": "CS-2010 #4",
+      "image_hash": "2863a49d091b72cd82ccfa503323956dcd62e066d0d24a357b47cf7daba61fe5",
+      "image_link": "https://arweave.net/RfS2EpGVFqT7VfdvlYCRJp65suWmqOHlsESYK4T24Ec?ext=png",
+      "metadata_hash": "1cae53e1a87c3f5ac0fa28c78cd54afcc59ba8173915e6d720b3e306b1b5f4a9",
+      "metadata_link": "https://arweave.net/omzjd958QKydqDgdJFDwkunPkRooY5kMk78XdzRURqs",
+      "onChain": true
+    },
+    "4": {
+      "name": "CS-2010 #5",
+      "image_hash": "f25e961c0c552e48e84a7477fba5fe28dc579836c845e24665c2c0f870c43be6",
+      "image_link": "https://arweave.net/b4Xy4ROY5TTvs1WGeHDVShhaccWpxWdCrdgMKlSCrJY?ext=png",
+      "metadata_hash": "d8095b8c1e5d2a0ddf6816a1ea3b523503ff4e1e89fea1e9cdbdb72aeacb87bc",
+      "metadata_link": "https://arweave.net/sKbSGw2j76FXSdwMOU5bLNF8ocCNEgH8bPBUPv2iRbk",
+      "onChain": true
+    },
+    "5": {
+      "name": "CS-2010 #6",
+      "image_hash": "13520bd410a695673ab2ed95fe5e04c32379a8fe2b7184870b2ce17e08fc093e",
+      "image_link": "https://arweave.net/wyhi6tcTlACFLbY5IT0S4PRVhVAlmE8oeKTgeq5eCrY?ext=png",
+      "metadata_hash": "59370f690bf182b9041f1a83c4e887efbb7f4e7d26e7c479da9d3f41d39a2b07",
+      "metadata_link": "https://arweave.net/zdGj6ppDEpp0_ljFOEQtCvZj6cicbRxnqbdS_NLu7sk",
+      "onChain": true
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+    "name": "CS-2010 #6",
+    "symbol": "SMNT",
+    "description": "Blockchain Technology course Student.",
+    "image": "5.png",
+    "attributes": [
+        {
+            "trait_type": "chair",
+            "value": "blue"
+        },
+        {
+            "trait_type": "books",
+            "value": "yellow"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "5.png",
+                "type": "image/png"
+            }
+        ]
+    }
+}
